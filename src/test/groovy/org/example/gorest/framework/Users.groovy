@@ -1,6 +1,5 @@
 package org.example.gorest.framework
 
-import groovy.json.JsonOutput
 
 class Users {
     static def getUsers(){

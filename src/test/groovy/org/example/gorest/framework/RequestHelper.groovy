@@ -1,6 +1,8 @@
 package org.example.gorest.framework
 
 import groovy.json.JsonOutput
+
+import groovy.json.JsonOutput
 import org.example.gorest.framework.Settings
 import wslite.http.HTTPClientException
 import wslite.rest.RESTClient
